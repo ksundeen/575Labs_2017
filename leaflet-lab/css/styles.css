@@ -1,0 +1,27 @@
+/* Stylesheet by Kim Sundeen, 2017 */
+/* Used for scaling both maps on 1 page
+#osMapId, #bubblemanId { 
+    height: 200px; 
+}
+*/
+
+#schoolmap { 
+    height: 400px; 
+    width: 80%;
+    display: inline-block;
+}
+
+#panel {
+    width: 16%;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.leaflet-popup-content p {
+    margin: 0.2em 0; /* this didn't do anything */
+    line-height: 0.5; 
+}
+
+

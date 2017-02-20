@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Kim's Leaflet Lab</title>
+
+		<!--put your external stylesheet links here-->
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+        <link rel="stylesheet" type="text/css" href="lib/leaflet/leaflet.css">
+        <link rel="stylesheet" type="text/css" href="lib/Leaflet.markercluster-master/dist/MarkerCluster.css">
+        <link rel="stylesheet" type="text/css" href="lib/Leaflet.markercluster-master/dist/MarkerCluster.Default.css">
+        
+		<!--[if IE<9]>
+			<link rel="stylesheet" href="css/styles.ie.css">
+		<![endif]-->
+	</head>
+
+	<body>
+		<!--put your initial page content here-->
+		<p id="myheader">Kim's Leaflet Tutorial</p>
+<!--Adding the inline CSS style made the map draw, which proved that something was going wrong with the CSS. When I changed the stylesheet to "styles.css" it worked. Something else must have been accessing "style.css"-->
+<!--        <div id="mapid" style="height: 300px;">Web Map Goes Here</div>--> 
+
+        <div id="schoolmap">Enrollment Map Goes Here</div>
+        <div id="panel">Panel</div>
+
+		
+        <!--you can also use this space for internal scripts or stylesheets;
+		place these within <script> or <style> tags-->
+
+		<!--put your external script links here-->
+        <script type="text/javascript" src="lib/jquery-3.1.1.js"></script>
+        <script type="text/javascript" src="lib/leaflet/leaflet-src.js"></script>
+        <script type="text/javascript" src="lib/Leaflet.markercluster-master/dist/leaflet.markercluster-src.js"></script>
+        
+        <!--all these files were separate from the github site: https://github.com/Leaflet/Leaflet.markercluster
+        <script type="text/javascript" src="lib/Leaflet.markercluster-master/src/MarkerClusterGroup.js"></script>
+        <script type="text/javascript" src="lib/Leaflet.markercluster-master/src/MarkerCluster.js"></script>
+        <script type="text/javascript" src="lib/Leaflet.markercluster-master/src/DistanceGrid.js"></script>
+        <script type="text/javascript" src="lib/Leaflet.markercluster-master/src/MarkerCluster.QuickHull.js"></script>
+        <script type="text/javascript" src="lib/Leaflet.markercluster-master/src/MarkerCluster.Spiderfier.js"></script>
+        <script type="text/javascript" src="lib/Leaflet.markercluster-master/src/MarkerClusterGroup.Refresh.js"></script>
+        <script type="text/javascript" src="lib/Leaflet.markercluster-master/src/MarkerOpacity.js"></script>
+        -->
+        <!-- Map with marker cluster & geojson-->
+        <script type="text/javascript" src="js/showmap.js"></script>
+
+	</body>
+</html>

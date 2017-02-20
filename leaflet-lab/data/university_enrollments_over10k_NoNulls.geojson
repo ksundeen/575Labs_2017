@@ -1,0 +1,338 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "university": "Ohio State University, Main Campus, OH",
+        "fall_1990": "54,087",
+        "fall_2000": "47,952",
+        "fall_2010": "56,064",
+        "fall_2012": "56,387",
+        "fall_2013": "57,466",
+        "fall_2014": "58,322",
+        "fall_2015": "58,663",
+        "lat": 40.01419,
+        "long": -83.030914
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.030914,
+          40.01419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Minnesota, Twin Cities, MN",
+        "fall_1990": "57,168",
+        "fall_2000": "45,481",
+        "fall_2010": "51,721",
+        "fall_2012": "51,853",
+        "fall_2013": "51,526",
+        "fall_2014": "51,147",
+        "fall_2015": "50,678",
+        "lat": 44.9776192,
+        "long": -93.2356873
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2356873,
+          44.9776192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Michigan State University, MI",
+        "fall_1990": "44,307",
+        "fall_2000": "43,366",
+        "fall_2010": "46,985",
+        "fall_2012": "48,783",
+        "fall_2013": "49,317",
+        "fall_2014": "50,081",
+        "fall_2015": "50,543",
+        "lat": 42.7294617,
+        "long": -84.4804077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4804077,
+          42.7294617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Indiana University, Bloomington, IN",
+        "fall_1990": "35,451",
+        "fall_2000": "37,076",
+        "fall_2010": "42,464",
+        "fall_2012": "42,133",
+        "fall_2013": "46,817",
+        "fall_2014": "46,416",
+        "fall_2015": "48,514",
+        "lat": 39.1684799,
+        "long": -86.5198517
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5198517,
+          39.1684799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Rutgers University, New Brunswick, NJ",
+        "fall_1990": "33,016",
+        "fall_2000": "35,236",
+        "fall_2010": "38,912",
+        "fall_2012": "40,434",
+        "fall_2013": "48,036",
+        "fall_2014": "48,378",
+        "fall_2015": "48096",
+        "lat": 40.5026512,
+        "long": -74.4556656
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4556656,
+          40.5026512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Pennsylvania State University, Main Campus, PA",
+        "fall_1990": "38,864",
+        "fall_2000": "40,571",
+        "fall_2010": "45,233",
+        "fall_2012": "45,783",
+        "fall_2013": "46,615",
+        "fall_2014": "47,040",
+        "fall_2015": "46,848",
+        "lat": 40.798213,
+        "long": -77.859908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.859908,
+          40.798213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Illinois at Chicago, IL",
+        "fall_1990": "24,959",
+        "fall_2000": "24,942",
+        "fall_2010": "27,850",
+        "fall_2012": "27,875",
+        "fall_2013": "28,038",
+        "fall_2014": "27,969",
+        "fall_2015": "44087",
+        "lat": 41.8743401,
+        "long": -87.6569214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6569214,
+          41.8743401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Michigan, Ann Arbor, MI",
+        "fall_1990": "36,391",
+        "fall_2000": "38,103",
+        "fall_2010": "41,924",
+        "fall_2012": "43,426",
+        "fall_2013": "43,710",
+        "fall_2014": "43,625",
+        "fall_2015": "43,651",
+        "lat": 42.2756119,
+        "long": -83.7346191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7346191,
+          42.2756119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Wisconsin, Madison, WI",
+        "fall_1990": "43,209",
+        "fall_2000": "40,658",
+        "fall_2010": "42595",
+        "fall_2012": "42820",
+        "fall_2013": "43275",
+        "fall_2014": "43193",
+        "fall_2015": "43193",
+        "lat": 43.0758286,
+        "long": -89.3975983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3975983,
+          43.0758286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Maryland, College Park, MD",
+        "fall_1990": "34,829",
+        "fall_2000": "33,189",
+        "fall_2010": "37,641",
+        "fall_2012": "37,248",
+        "fall_2013": "37,272",
+        "fall_2014": "37,610",
+        "fall_2015": "38,140",
+        "lat": 38.9878082,
+        "long": -76.9389038
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9389038,
+          38.9878082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Iowa, IA",
+        "fall_1990": "28,785",
+        "fall_2000": "28,311",
+        "fall_2010": "29,518",
+        "fall_2012": "30,129",
+        "fall_2013": "29,748",
+        "fall_2014": "29,970",
+        "fall_2015": "32,150",
+        "lat": 41.6625214,
+        "long": -91.5365067
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5365067,
+          41.6625214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Indiana University-Purdue University, Indianapolis, IN",
+        "fall_1990": "27,517",
+        "fall_2000": "27,525",
+        "fall_2010": "31,145",
+        "fall_2012": "30,147",
+        "fall_2013": "29,440",
+        "fall_2014": "29,255",
+        "fall_2015": "29497",
+        "lat": 39.7694588,
+        "long": -86.1701965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1701965,
+          39.7694588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Nebraska, Lincoln, NE",
+        "fall_1990": "24,453",
+        "fall_2000": "22,268",
+        "fall_2010": "24,610",
+        "fall_2012": "24,207",
+        "fall_2013": "24,445",
+        "fall_2014": "25,006",
+        "fall_2015": "25,260",
+        "lat": 40.8169098,
+        "long": -96.7007675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7007675,
+          40.8169098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Northwestern University, IL",
+        "fall_1990": "17,041",
+        "fall_2000": "16,952",
+        "fall_2010": "19,389",
+        "fall_2012": "20,439",
+        "fall_2013": "20,997",
+        "fall_2014": "20,336",
+        "fall_2015": "20,955",
+        "lat": 42.0617294,
+        "long": -87.6770706
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6770706,
+          42.0617294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Madison Area Technical College, WI",
+        "fall_1990": "12,410",
+        "fall_2000": "14,474",
+        "fall_2010": "17,463",
+        "fall_2012": "16,139",
+        "fall_2013": "15,402",
+        "fall_2014": "16,759",
+        "fall_2015": "16,139",
+        "lat": 43.0756798,
+        "long": -89.3876877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3876877,
+          43.0756798
+        ]
+      }
+    }
+  ]
+}
